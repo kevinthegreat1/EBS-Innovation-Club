@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
-  samuel.wang@eaglebrook.org<br>
-  kevin.yang@eaglebrook.org<br>
-  ryan.chen@eaglebrook.org
+    samuel.wang@eaglebrook.org<br>
+    kevin.yang@eaglebrook.org<br>
+    ryan.chen@eaglebrook.org
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
