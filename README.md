@@ -1,1 +1,1 @@
-# Eaglebrook Innovation Club Github Respoistory 
+# Eaglebrook Innovation Club Github Repository 
