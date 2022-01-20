@@ -1,4 +1,4 @@
-<h1 align="center">This is an offcial Eaglebrook innovation lab Respository</h1>
+<h1 align="center">This is an official Eaglebrook Innovation Club Respository</h1>
 <h3 align="center">We are together working on nfts, cryptos.</h3>
 <h4 align="center">Made possible by - ... .. .. .. . .</h3>
 
