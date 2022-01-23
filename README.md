@@ -1,6 +1,10 @@
 <h1 align="center">This is an official Eaglebrook Innovation Club Respository</h1>
 <h3 align="center">We are together working on nfts, cryptos.</h3>
-<h4 align="center">Made possible by - ... .. .. .. . .</h3>
+<h3 align="center"> Eaglebucks</h3>
+<hr>
+
+[Google Document](https://docs.google.com/document/d/17VurvV4Vw8PRnxgFYYK6ZWfChlDg0RXC67Mdx4sz2lE/edit?usp=sharing)
+<hr>
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
@@ -8,8 +12,8 @@
     kevin.yang@eaglebrook.org<br>
     ryan.chen@eaglebrook.org
 </p>
-
-<h1 align="center">Donation</h1>
+<hr>
+<h3>Donation</h3>
 <p>
     XCH: xch12lv2645483q6t82a4fjkur9r7dp6nd833duk2fdtfn08203r0p9qezc9sr<br>
     BTC: 3KriLsLDBzkZxxbanPHkwNaAsyrJh4PjPU
