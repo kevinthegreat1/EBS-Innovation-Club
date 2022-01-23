@@ -10,8 +10,8 @@
 <p align="left">
     samuel.wang@eaglebrook.org<br>
     kevin.yang@eaglebrook.org<br>
-    ryan.chen@eaglebrook.org
-    bill.yu@eaglebrook.org
+    ryan.chen@eaglebrook.org<br>
+    bill.yu@eaglebrook.org<br>
 </p>
 <hr>
 <h3>Donation</h3>
