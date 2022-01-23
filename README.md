@@ -1,5 +1,5 @@
-<h1 align="center">This is an official Eaglebrook Innovation Club Respository</h1>
-<h3 align="center">We are together working on nfts, cryptos.</h3>
+<h1 align="center">Eaglebrook Innovation Club Respository</h1>
+<h3 align="center">We are together working on tokens, nfts, and cryptos.</h3>
 <h3 align="center"> Eaglebucks</h3>
 <hr>
 
