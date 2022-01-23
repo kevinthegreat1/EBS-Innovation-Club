@@ -11,6 +11,7 @@
     samuel.wang@eaglebrook.org<br>
     kevin.yang@eaglebrook.org<br>
     ryan.chen@eaglebrook.org
+    bill.yu@eaglebrook.org
 </p>
 <hr>
 <h3>Donation</h3>
