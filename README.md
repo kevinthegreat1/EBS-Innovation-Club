@@ -4,6 +4,8 @@
 <hr>
 
 [Google Document](https://docs.google.com/document/d/17VurvV4Vw8PRnxgFYYK6ZWfChlDg0RXC67Mdx4sz2lE/edit?usp=sharing)
+
+[Google Drive](https://drive.google.com/drive/folders/1boTM6XjtIssUShv2es7QjfwdK2AKQc6S?usp=sharing)
 <hr>
 
 <h3 align="left">Connect with Us:</h3>
