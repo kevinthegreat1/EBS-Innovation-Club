@@ -105,6 +105,10 @@ export default {
 </script>
 
 <style scoped>
+.home-head {
+  padding-top: 70px;
+}
+
 .container {
   max-width: 960px;
 }
