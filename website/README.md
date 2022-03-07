@@ -1,5 +1,9 @@
 # Easy Crypto
 
+## Author
+
+Ryan Chen
+
 ## Project setup
 ```
 npm install
