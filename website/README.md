@@ -1,4 +1,4 @@
-# easycrypto
+# Easy Crypto
 
 ## Project setup
 ```
