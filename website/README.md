@@ -5,3 +5,11 @@ A crypto managing system with a landing page and dashboard. This project is dedi
 Ryan Chen
 Samuel Wang
 Bill Yu
+
+# How to run ?
+
+The [vue folder](/LanLan69/EasyCrypto/tree/master/vue) is the frontend of the website
+
+Please run it in the main domain. 
+
+The [laravel folder] is the backend of the website.
