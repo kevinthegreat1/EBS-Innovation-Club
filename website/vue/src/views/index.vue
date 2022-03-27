@@ -115,13 +115,14 @@ export default {
   backdrop-filter: saturate(180%) blur(15px);
 }
 
-.home-head{
+.home-head {
   background-color: #000;
 }
 
 .flex-equal > * {
   flex: 1;
 }
+
 @media (min-width: 768px) {
   .flex-md-equal > * {
     flex: 1;

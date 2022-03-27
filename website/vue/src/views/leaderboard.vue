@@ -102,7 +102,7 @@
 
 <script>
 export default {
-  name: "lb"
+  name: "leaderboard"
 }
 </script>
 
@@ -123,13 +123,13 @@ export default {
 }
 
 .leaderboard-item {
-  background-color: rgba(30, 39, 46,1.0);
-  color:azure
+  background-color: rgba(30, 39, 46, 1.0);
+  color: azure
 }
 
-.leaderboard-item:hover{
-  background-color: rgba(44, 62, 80,1.0);
-  color:azure
+.leaderboard-item:hover {
+  background-color: rgba(44, 62, 80, 1.0);
+  color: azure
 }
 
 .chart-container {
