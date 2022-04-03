@@ -12,7 +12,7 @@
           <div class="mx-auto"></div>
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" href="index.html">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/leaderboard">Leaderboard</a>
@@ -21,7 +21,7 @@
               <a class="nav-link" href="#">Rewards</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/about">About Us</a>
+              <a class="nav-link active" href="/about">About Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">FAQ</a>
@@ -33,22 +33,18 @@
   </header>
 
   <main>
-    <div class="home-head p-4 w-100 vh-100 d-flex">
-      <div class="row flex-lg-row-reverse align-items-center">
-        <div class="col-lg-6">
-          <img src="static/images/logo.png" class=" img-fluid" alt="Bootstrap Themes" loading="lazy">
-        </div>
-        <div class="col-lg-4">
-          <h1 class="display-5 fw-bold text-white">Get Started With Eaglebucks</h1>
-          <p class="lead text-light">Quickly get started with Eaglebucks. Eaglebrook School was founded in 1922 by
-            Howard Gibbs as a private boarding and day school for boys in middle school.</p>
-          <div class="d-grid">
-            <button type="button" class="btn btn-primary shadow0lg btn-lg px-4 me-md-2">Try Now</button>
-          </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center">About Us</h1>
+          <p>
+            Created by the Innovation Club at Eaglebrook School with help from Patrick Mahoney'83
+            We create cryptos, tokens, and nfts for the Eaglebrook community.
+            Created with chia blockchain technology.
+          </p>
         </div>
       </div>
     </div>
-    <!-- Hero -->
   </main>
 
   <footer class="container py-5">
@@ -100,33 +96,10 @@
 
 <script>
 export default {
-  name: "index"
+  name: "about.vue"
 }
 </script>
 
 <style scoped>
-.container {
-  max-width: 960px;
-}
-
-.site-header {
-  background-color: rgba(0, 0, 0, .80);
-  -webkit-backdrop-filter: saturate(180%) blur(15px);
-  backdrop-filter: saturate(180%) blur(15px);
-}
-
-.home-head {
-  background-color: #000;
-}
-
-.flex-equal > * {
-  flex: 1;
-}
-
-@media (min-width: 768px) {
-  .flex-md-equal > * {
-    flex: 1;
-  }
-}
 
 </style>

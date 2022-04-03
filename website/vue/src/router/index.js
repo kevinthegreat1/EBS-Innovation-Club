@@ -1,5 +1,6 @@
 import {createWebHistory, createRouter} from "vue-router";
 import Index from "../views/index";
+import About from "../views/about";
 import LeaderBoard from "../views/leaderboard";
 import Donate from "../views/donate";
 
@@ -10,14 +11,19 @@ const routes = [
         component: Index,
     },
     {
-        path: "/leaderboard",
-        name: "LeaderBoard",
-        component: LeaderBoard,
+        path: "/about",
+        name: "About",
+        component: About,
     },
     ...['/donate', '/donation'].map(path => ({
         path,
         component: Donate
     })),
+    {
+        path: "/leaderboard",
+        name: "LeaderBoard",
+        component: LeaderBoard,
+    },
 ];
 
 const router = createRouter({

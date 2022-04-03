@@ -21,7 +21,7 @@
               <a class="nav-link" href="#">Rewards</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Pricing</a>
+              <a class="nav-link" href="/about">About Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">FAQ</a>
@@ -62,10 +62,10 @@
       <div class="col-6 col-md">
         <h5>Features</h5>
         <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Home</a></li>
-          <li><a class="link-secondary" href="#">LeaderBoard</a></li>
+          <li><a class="link-secondary" href="/index">Home</a></li>
+          <li><a class="link-secondary" href="/leaderboard">LeaderBoard</a></li>
           <li><a class="link-secondary" href="#">Rewards</a></li>
-          <li><a class="link-secondary" href="#">Pricing</a></li>
+          <li><a class="link-secondary" href="/about">About Us</a></li>
           <li><a class="link-secondary" href="#">FAQ</a></li>
         </ul>
       </div>
